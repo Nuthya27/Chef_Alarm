@@ -2,7 +2,7 @@
 
 My first individual project, Chef Alarm, the modern precision cooking equipment is made to take culinary experiences to new heights. This cutting-edge appliance guarantees that the meals are always cooked to perfection, whether you're a seasoned home cook or a professional chef. With its advanced technology and user-friendly design, the Chef Alarm is the ideal assistant for producing safe, delicious results in the kitchen.
 
-![image](https://github.com/Nuthya27/Chef_Alarm/assets/111232856/94a43cb4-6034-418a-8b71-c09e8d8f421e)
+    ![image](https://github.com/Nuthya27/Chef_Alarm/assets/111232856/94a43cb4-6034-418a-8b71-c09e8d8f421e)
 
 ## Features
 
