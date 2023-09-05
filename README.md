@@ -18,7 +18,7 @@ My first individual project, Chef Alarm, the modern precision cooking equipment 
   * Time and effort-saving cooking experience.
 
 ## Specifications
-
+***
 Temperature Measurement (DS18B20 Sensor)
     Minimum Temperature: -55 ºC
     Maximum Temperature: 125 ºC
