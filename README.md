@@ -18,23 +18,22 @@ My first individual project, Chef Alarm, the modern precision cooking equipment 
   * Time and effort-saving cooking experience.
 
 ## Specifications
-***
-Temperature Measurement (DS18B20 Sensor)
-    Minimum Temperature: -55 ºC
-    Maximum Temperature: 125 ºC
-    Temperature Accuracy: ±0.4℃ (at -10℃ ~ +85℃)
-Power
-    Battery Type: 3.7V Li-ion Battery
-    Battery Capacity: 1000mAh
-    Battery Life: 15 hours to 20 hours
-    Operating Voltage: 3.3 V
-    Current Range: 48 mA to 65 mA
-Probes
-    Number of probes: 1
-    Probe Material: Stainless Steel
-    Probe Cable Length: 100 cm
-    Water-resistant 
-Buzzer 
-    Alarm sound: 90 dB
-Connectivity
-    Bluetooth version: 4.2
+
+ Minimum Temperature: -55 ºC
+ Maximum Temperature: 125 ºC
+ Temperature Accuracy: ±0.4℃ (at -10℃ ~ +85℃)
+
+ Battery Type: 3.7V Li-ion Battery
+ Battery Capacity: 1000mAh
+ Battery Life: 15 hours to 20 hours
+ Operating Voltage: 3.3 V
+ Current Range: 48 mA to 65 mA
+
+ Number of probes: 1
+ Probe Material: Stainless Steel
+ Probe Cable Length: 100 cm
+ Water-resistant 
+
+ Alarm sound: 90 dB
+
+ Bluetooth version: 4.2
