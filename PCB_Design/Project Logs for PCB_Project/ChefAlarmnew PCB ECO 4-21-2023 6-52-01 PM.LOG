@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=3.3V Pin=LED2-2
+Removed Pin From Net: NetName=GND Pin=LS1-2
+Change Component Footprint: Designator=LED1 Old Footprint=Type 5mm New Footprint=SMTC-SSW-102-02-X-S
+Change Component Footprint: Designator=LED2 Old Footprint=Type 5mm New Footprint=SMTC-SSW-102-02-X-S
+Change Component Comment : Designator=LED1 Old Comment=Green New Comment=SSW-102-02-T-S
+Change Component Comment : Designator=LED2 Old Comment=Red New Comment=SSW-102-02-T-S
+Added Component: Designator=Buzzer(SMTC-SSW-102-02-X-S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/SSW_TH.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/SSW-1XX-XX-XXX-X-XX-XXX-XX-MKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Assembly, Socket Strip .016 X .031 Tail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SSW-102-02-X-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "CA, 6/1987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SSW-102-02-T-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 105 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Buzzer-2
+Added Pin To Net: NetName=3.3V Pin=LED2-1
+Added Pin To Net: NetName=NetBuzzer_1 Pin=Buzzer-1
+Added Pin To Net: NetName=NetBuzzer_1 Pin=MD1-23
+Added Net: Name=NetBuzzer_1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R6-2
+Added Net: Name=NetLED2_2
+Added Member To Class: ClassName=Sheet1 Member=Component Buzzer SSW-102-02-T-S
+Added Room: Name=Sheet1
