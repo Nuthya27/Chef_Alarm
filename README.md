@@ -33,3 +33,14 @@ My first individual project, Chef Alarm, the modern precision cooking equipment 
  * Water-resistant 
  * Alarm sound: 90 dB
  * Bluetooth version: 4.2
+
+## Functionality
+
+Let's take a closer look at the inner workings of the Chef Alarm. The block diagram below illustrates how the various components of the circuit come together seamlessly to accomplish the tasks of this culinary companion.
+
+![image](https://github.com/Nuthya27/Chef_Alarm/assets/111232856/0ed1e4ad-2dde-4569-8e16-e5c9b5ed93bb)
+
+
+
+
+
