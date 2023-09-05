@@ -2,7 +2,7 @@
 
 My first individual project, Chef Alarm, the modern precision cooking equipment is made to take culinary experiences to new heights. This cutting-edge appliance guarantees that the meals are always cooked to perfection, whether you're a seasoned home cook or a professional chef. With its advanced technology and user-friendly design, the Chef Alarm is the ideal assistant for producing safe, delicious results in the kitchen.
 
-    ![image](https://github.com/Nuthya27/Chef_Alarm/assets/111232856/94a43cb4-6034-418a-8b71-c09e8d8f421e)
+   ![image](https://github.com/Nuthya27/Chef_Alarm/assets/111232856/94a43cb4-6034-418a-8b71-c09e8d8f421e)
 
 ## Features
 
@@ -16,3 +16,25 @@ My first individual project, Chef Alarm, the modern precision cooking equipment 
   * Rechargeable with mini-USB charging and a green LED charging indicator.
   * Precise temperature monitoring for consistent cooking results.
   * Time and effort-saving cooking experience.
+
+## Specifications
+
+* Temperature Measurement (DS18B20 Sensor)
+    Minimum Temperature: -55 ºC
+    Maximum Temperature: 125 ºC
+    Temperature Accuracy: ±0.4℃ (at -10℃ ~ +85℃)
+* Power
+    Battery Type: 3.7V Li-ion Battery
+    Battery Capacity: 1000mAh
+    Battery Life: 15 hours to 20 hours
+    Operating Voltage: 3.3 V
+    Current Range: 48 mA to 65 mA
+* Probes
+    Number of probes: 1
+    Probe Material: Stainless Steel
+    Probe Cable Length: 100 cm
+    Water-resistant 
+* Buzzer 
+    Alarm sound: 90 dB
+* Connectivity
+    Bluetooth version: 4.2
