@@ -21,7 +21,9 @@ My first individual project, Chef Alarm, the modern precision cooking equipment 
 
 * Temperature Measurement (DS18B20 Sensor)
     Minimum Temperature: -55 ºC
+  
     Maximum Temperature: 125 ºC
+  
     Temperature Accuracy: ±0.4℃ (at -10℃ ~ +85℃)
 * Power
     Battery Type: 3.7V Li-ion Battery
